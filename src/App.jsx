@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import FilterCard from "./components/FilterCard";
-import JobCard from "./components/jobCard";
+import JobCard from "./components/JobCard";
 import mockJobList from "./mock-data/data";
 import filterStore from "./store/filterStore";
 import Footer from "./components/Footer";
