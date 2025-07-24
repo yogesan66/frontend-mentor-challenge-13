@@ -26,8 +26,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-job-listing-screen-using-react-and-tailwindcss-zn312Mio6G)
-- Live Site URL: [Add live site URL here](https://job-listings-yogesan.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-job-listing-screen-using-react-and-tailwindcss-zn312Mio6G](https://www.frontendmentor.io/solutions/responsive-job-listing-screen-using-react-and-tailwindcss-zn312Mio6G)
+- Live Site URL: [https://job-listings-yogesan.netlify.app/](https://job-listings-yogesan.netlify.app/)
 
 ## My process
 
@@ -84,8 +84,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://yogesan.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yogesan66)
+- Website - [https://yogesan.netlify.app/](https://yogesan.netlify.app/)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/yogesan66](https://www.frontendmentor.io/profile/yogesan66)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
